@@ -3,4 +3,4 @@
 ### Seq2Seq
 ### Paper Review
 - NLP
- 
+- Anomaly Detection
